@@ -1,0 +1,16 @@
+body{
+    background-color:bisque
+}
+
+#header{
+    background-color:blueviolet;
+}
+#lateral_menu{
+    background-color:brown;
+}
+#content{
+    background-color:coral;
+}
+#footer{
+    background-color:darkslateblue;
+}
